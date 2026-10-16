@@ -1,0 +1,6 @@
+{
+  "name": "In Christ, My woman",
+  "description": "An intimate daily devotional and love notes for my woman in Christ, featuring personal messages, scriptures, prayers, and calming voice audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
